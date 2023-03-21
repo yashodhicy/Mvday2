@@ -1,0 +1,11 @@
+{
+    "extends": "stylelint-config-standard",
+    "rules": {
+        "color-hex-length": "short",
+        "declaration-colon-space-after": "always",
+        "declaration-colon-space-before": "never",
+        "selector-pseudo-class-no-unknown": [ true, {
+            "ignorePseudoClasses": ["global"]
+        }]
+    }
+}
