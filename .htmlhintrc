@@ -1,9 +1,0 @@
-{
-    "doctype-first": true,
-    "doctype-html5": true,
-    "tag-pair": true,
-    "tag-self-close": true,
-    "spec-char-escape": true,
-    "id-unique": true,
-    "src-not-empty": true
-}
